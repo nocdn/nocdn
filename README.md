@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kayetic
-- 👀 I’m interested in simple coding and python!
-- 🌱 I’m currently learning CS and Python
+- 👋 Hi, I’m <b>@Kayetic</b>
+- 👀 I’m interested in simple scripting and Python!
+- 🌱 I’m currently learning CS and Python...
 
 
 <!---
