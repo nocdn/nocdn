@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>@Kayetic</b>
-- 👀 I’m interested in simple scripting with Python and web development with JS, HTML and CSS!
-- 🌱 I’m currently learning CS, Python and JavaScript...
+- 👀 I’m interested in scripting with Python and web development with JS, HTML and CSS!
+- 🌱 I’m currently learning CS, Python and JavaScript (and a bit of Kotlin)...
 
 
 <!---
