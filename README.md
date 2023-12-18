@@ -1,6 +1,6 @@
 - 👋 Hi, I’m your friendly neighborhood programmer <b>@Kayetic</b>
-- 👀 I’m interested in scripting with Python and web development with JS, HTML and CSS!
-- 🌱 I’m currently learning CS, Python and JavaScript (and a bit of Kotlin)...
+- 👀 I quite like scripting with Python and web app development with JS, HTML and SCSS!
+- 🌱 I’m currently learning CS, Python, JavaScript (and a bit of Swift)...
 
 
 <!---
