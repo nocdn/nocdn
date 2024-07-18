@@ -1,6 +1,7 @@
 - 👋 Hi, I’m your friendly neighborhood programmer <b>@Kayetic</b>
-- 👀 I quite like scripting with Python and web app development with JS, HTML and SCSS!
-- 🌱 I’m currently learning CS, Python, JavaScript (and a bit of Swift)...
+- 👀 I quite like scripting with Bash, Python and web app development with JS, HTML and SCSS!
+- 🌱 I’m currently learning CS, Python, JavaScript (and a bit of Swift)
+- ... with a new found love for Svelte 🫶
 
 
 <!---
