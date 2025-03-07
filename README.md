@@ -1,7 +1,4 @@
-- 👋 Hi, I’m your friendly neighborhood programmer <b>@Kayetic</b>
-- 👀 I quite like scripting with Bash, Python and web app development with JS, HTML and SCSS!
-- 🌱 I’m currently learning CS, Python, JavaScript (and a bit of Swift)
-- ... with a new found love for Svelte 🫶
+I am a first year <span style="color:#1e40af">Computer Science</span> student at the <span style="color:#1e40af">University of York</span>, highly technically capable, passionate about building web, and backend applications, using a variety of modern and established technologies. I have experience with <span style="color:#1e40af">Svelte, Tailwind CSS, Python, JavaScript, Flask, PostgreSQL</span> and am comfortable with cloud platforms like <span style="color:#1e40af">AWS, and GCP</span> through the projects I have worked on. I also use <span style="color:#1e40af">Linux, Git and Docker</span> regularly.
 
 
 <!---
