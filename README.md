@@ -1,4 +1,4 @@
-I am a first year **Computer Science** student at the **University of York**, highly technically capable, passionate about building web, and backend applications, using a variety of modern and established technologies. I have experience with **Svelte, Tailwind CSS, Python, JavaScript, Flask, PostgreSQL** and am comfortable with cloud platforms like **AWS, and GCP** through the projects I have worked on. I also use **Linux, Git and Docker** regularly.
+I am a first year **Computer Science** student at the **University of York**, highly technically capable, passionate about building web, and backend applications, using a variety of modern and established technologies. I have experience with **Svelte, SvelteKit, Tailwind CSS, Python, JavaScript, Flask, PostgreSQL** and am comfortable with cloud platforms like **AWS, and GCP** through the projects I have worked on. I also use **Linux and Docker** regularly, and **Git** with every project.
 
 
 <!---
