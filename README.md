@@ -1,14 +1,17 @@
 **computer science** student at the **University of York**
 
 tech stack:
-- SvelteKit
+- Next.JS
+- React
 - Typescript
+- SvelteKit
 - Tailwind CSS
 - Flask
 - PostgreSQL
+- SQLite
 - Docker
 
-additional experience with AWS, GCP, React and Next.JS
+additional experience with AWS, GCP
 
 
 contact: `contact@bartoszbak.org`
